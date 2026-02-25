@@ -1,0 +1,3 @@
+Number of sequences: 3
+Average length: 9.33
+Average GC content: 0.52
