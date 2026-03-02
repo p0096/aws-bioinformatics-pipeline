@@ -48,7 +48,7 @@ chmod +x scripts/run_pipeline.sh
 ./scripts/run_pipeline.sh
 
 
-After execution, the results will be available in: results/summary.txt
+After execution, the results will be available in: results/summary.txt```
 
 ## Future improvements
 
