@@ -43,14 +43,13 @@ aws-bioinformatics-pipeline/
 
 From the root directory of the project:
 
-```bash
+```
 chmod +x scripts/run_pipeline.sh
 ./scripts/run_pipeline.sh
-
+```
 
 After execution, the results will be available in: results/summary.txt
 
-```
 
 ## Future improvements
 
