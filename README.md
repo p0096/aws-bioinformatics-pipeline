@@ -23,13 +23,15 @@ The pipeline performs the following steps:
 3. Writes a summary report to a results file
 4. Automates execution using a Bash script
 
-## Project structure
+## Project Structure
 
+```
 aws-bioinformatics-pipeline/
-├── data/ # Input FASTA files
-├── scripts/ # Python and Bash scripts
-├── results/ # Output files
+├── data/        # Input FASTA files
+├── scripts/     # Python and Bash scripts
+├── results/     # Output files
 └── README.md
+```
 
 ## Technologies used
 
